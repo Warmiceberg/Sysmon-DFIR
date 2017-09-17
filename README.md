@@ -4,7 +4,7 @@ A curated list of resources for learning about deploying, managing and hunting w
 
 
 # Sysmon Learning Resources
-# Hello ~
+
 
   * [General](#general)
     * [Presentations](#Presentations)
